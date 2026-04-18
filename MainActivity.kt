@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
     companion object {
         private const val TAG = "Bandhan"
         // ↓ CHANGE THIS to your Vercel URL before building
-        const val APP_URL = "https://YOUR-APP.vercel.app"
+        const val APP_URL = "https://https://bandhan-app-sooty.vercel.app"
         const val APP_URL_DEBUG = "http://10.0.2.2:3000"
         const val PREFS = "BandhanPrefs"
         const val KEY_TOKEN = "session_token"
